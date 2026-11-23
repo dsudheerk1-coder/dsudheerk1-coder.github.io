@@ -1,0 +1,372 @@
+{
+  "schemaVersion": "2.0.0",
+  "lastUpdated": "2026-11-23",
+  "visibility": "public",
+  "privacyNotice": "Public professional profiles only. Phone numbers, residential street address, compensation expectations, and work authorization documents are intentionally excluded and maintained separately in the private JobApply AI vault.",
+  "shared": {
+    "location": {
+      "city": "Hyderabad",
+      "country": "India"
+    },
+    "linkedinUrl": "https://www.linkedin.com/in/sudheer-dasineni",
+    "githubUrl": "https://github.com/dsudheerk1-coder",
+    "portfolioUrl": "https://dsudheerk1-coder.github.io/",
+    "languages": [
+      "English",
+      "Hindi",
+      "Telugu"
+    ],
+    "certifications": [
+      {
+        "title": "SAP Certified Associate – SAP S/4HANA Cloud Private Edition, Sales",
+        "issuer": "SAP",
+        "issuedDate": "2025-05"
+      },
+      {
+        "title": "SAP Certified Associate – SAP S/4HANA Cloud Private Edition, Sourcing and Procurement",
+        "issuer": "SAP",
+        "issuedDate": "2025-06"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Computer Science",
+        "institution": "Osmania University",
+        "location": "Hyderabad, India",
+        "graduationYear": 2004
+      }
+    ]
+  },
+  "profiles": {
+    "sap": {
+      "trackId": "sap",
+      "trackLabel": "SAP Consulting Profile",
+      "sourceProfile": "SAP Profile",
+      "shareUrl": "https://dsudheerk1-coder.github.io/?profile=sap",
+      "displayName": "Sudheer Dasineni",
+      "publicEmail": "dsudhir18@gmail.com",
+      "headline": "SAP SD / Logistics Techno-Functional Consultant",
+      "subheadline": "SAP SD/MM | Production Support Specialist | Sales Operations | Customer Service | Order to Cash | Key Account Handling | Contract Management | Supply Chain & Logistics Management",
+      "summary": "SAP SD / Logistics Functional Consultant with 20 years of experience across SAP SD/MM, Order-to-Cash (O2C), sales operations, and supply chain execution. Experienced in SAP SD implementation, configuration, rollout, and change-request delivery, plus 3PL, warehouse, TMS, APO, and SAP Enterprise Portal process integration. Hands-on experience with ATP checks and SAP IDoc monitoring and reprocessing using WE02, WE05, and BD87, and working with partner profiles in WE20. Skilled in gathering business requirements, documenting functional specifications, analysing interface issues, coordinating technical teams, and validating end-to-end order, delivery, shipping, and billing processes.",
+      "targetRoles": [
+        "Senior SAP SD Functional Consultant",
+        "SAP S/4HANA Sales / O2C Functional Consultant",
+        "SAP SD/MM Techno-Functional Consultant",
+        "SAP Logistics Execution & 3PL Integration Consultant",
+        "SAP Production Support & Change Request Lead"
+      ],
+      "keyMetrics": [
+        {
+          "value": "20 Yrs",
+          "label": "SAP & O2C Experience",
+          "detail": "SAP SD/MM implementation, rollouts & global support"
+        },
+        {
+          "value": "2×",
+          "label": "SAP S/4HANA Certified",
+          "detail": "Sales (May 2025) & Sourcing/Procurement (Jun 2025)"
+        },
+        {
+          "value": "3PL + EDI",
+          "label": "Interface Depth",
+          "detail": "WE02/WE05/BD87/WE20, TMS 2.0, ProShip, Blue Dart/DHL/FedEx"
+        },
+        {
+          "value": "$6M",
+          "label": "Revenue Growth",
+          "detail": "Scaled key account revenue from $4M to $10M"
+        },
+        {
+          "value": "96%",
+          "label": "OTD Performance",
+          "detail": "41% order fulfilment improvement & 90% fewer open CRM cases"
+        },
+        {
+          "value": "35%",
+          "label": "Logistics Savings",
+          "detail": "Regional depot & freight optimization"
+        }
+      ],
+      "coreCompetencies": [
+        "SAP SD Implementation & Configuration | O2C | SAP MM Integration",
+        "Requirement Gathering | Fit-Gap Analysis | Functional Specifications | Change Requests",
+        "3PL & Warehouse Integration | TMS / ProShip | Logistics Execution",
+        "SAP IDoc & EDI Messages | WE02 / WE05 / BD87 | Partner Profiles (WE20)",
+        "APO Integration | ATP Checks | Availability & Confirmation Analysis",
+        "Sales Orders | Deliveries | Shipping | Billing | Pricing | Output & Partner Determination",
+        "SAP ECC & S/4HANA Sales | SAP Enterprise Portal | UAT | Integration Testing",
+        "Integration with MM, FI/CO, CRM, APO, Warehouse, TMS, ProShip & 3PL Systems"
+      ],
+      "experience": [
+        {
+          "company": "Wipro Ltd.",
+          "client": "Apple Inc – BPR India",
+          "location": "Hyderabad, India",
+          "role": "Sr. SAP Consultant – Order to Cash Specialist",
+          "startDate": "Oct 2023",
+          "endDate": "Present",
+          "highlights": [
+            "Worked on SAP SD functional changes and O2C process improvements for the Apple account, partnering with global business, IS&T, logistics, and integration teams to translate operational requirements into system changes.",
+            "Gathered requirements from order management, fulfilment, warehouse, and logistics stakeholders by reviewing process flows, business scenarios, existing system behaviour, exceptions, and downstream dependencies; documented functional requirements and acceptance criteria for CRs.",
+            "Handled SAP SD change requests and enhancement activities, assessing business impact, identifying affected configuration and interfaces, coordinating functional and technical actions, and supporting testing through deployment.",
+            "Worked on 3PL and carrier integration scenarios involving Blue Dart, DHL, and FedEx for the Apple account, coordinating delivery/shipment data, carrier/service information, tracking or waybill references, and shipment status issues.",
+            "Supported warehouse and logistics integration flows across SAP, TMS 2.0, ProShip, and SAP Enterprise Portal, analysing data hand-offs across order, delivery, shipping, and carrier processes.",
+            "Worked hands-on with SAP IDoc messages using WE02 and WE05 to review status/data, analyse processing errors, and reprocess failed IDocs through BD87; worked with partner profiles in WE20 and supported EDI validation and interface testing.",
+            "Worked on APO integration and ATP checks for sales order availability and confirmation scenarios, investigating requested dates, confirmed quantities, and availability discrepancies with planning and technical teams.",
+            "Supported SAP SD configuration and enhancement areas including Variant Configuration, item category determination, and ATP, assessing impacts on delivery creation, warehouse processing, and downstream logistics.",
+            "Prepared and executed functional and integration test scenarios for CRs and performed root-cause analysis for SAP SD and integration incidents with ABAP, middleware, warehouse, TMS, and carrier teams."
+          ]
+        },
+        {
+          "company": "Introlligent Solutions Pvt Ltd",
+          "client": "Apple Inc",
+          "location": "Hyderabad, India",
+          "role": "Sr. SAP Consultant, Production Support Specialist",
+          "startDate": "May 2022",
+          "endDate": "Oct 2023",
+          "highlights": [
+            "Provided global SAP SD/MM functional support across O2C and P2P, analysing business-process issues and coordinating fixes across SAP and connected applications.",
+            "Executed UAT, regression, and integration testing across multi-system landscapes, validating business scenarios, IDoc/EDI-dependent outcomes, and fixes delivered through change requests.",
+            "Supported regional initiatives including AMR EDU automation testing and AMR BOM L0/L1 support, and took on additional full-time responsibility for AMR BOM support.",
+            "Worked with BPR, IS&T, and regional/global QSS teams to clarify requirements, define test scenarios, document expected results, and support test automation planning.",
+            "Coordinated enhancement and change-request activities by analysing requirements, process dependencies, business impact, and test coverage, and supported releases and post-deployment stabilisation."
+          ]
+        },
+        {
+          "company": "Regal Rexnord India Pvt Ltd.",
+          "location": "Hyderabad, India",
+          "role": "SAP – SD Functional Consultant & Super User",
+          "startDate": "Jun 2020",
+          "endDate": "May 2022",
+          "highlights": [
+            "Handled SAP SD functional activities for a manufacturing rollout project covering requirement gathering, fit-gap analysis, process design, configuration, testing, cutover preparation, deployment, and post-go-live support.",
+            "Configured and enhanced core O2C processes including sales document types, item category and schedule line determination, pricing, partner functions, delivery and shipping, billing, credit management, and ATP settings.",
+            "Conducted requirement workshops across sales, customer service, manufacturing, planning, warehouse, and finance; translated requirements into AS-IS / TO-BE process flows and functional specifications.",
+            "Configured and maintained customer and sales master data, pricing condition records, partner/output determination, item categories, and material master sales views with SD-MM plant integration dependencies.",
+            "Worked on SAP Variant Configuration for configurable products, third-party sales and transfer scenarios, intercompany billing, consignment, rebates, ATP-related enhancements, and output changes.",
+            "Supported UAT coordination, user training, process documentation, cutover readiness, and post-go-live resolution as SD Super User; managed multiple SAP SD change requests end-to-end with in-house IT teams."
+          ]
+        },
+        {
+          "company": "Rexnord India Pvt Ltd.",
+          "location": "Hyderabad, India",
+          "role": "Manager – Techno-Commercial & Sales Operations",
+          "startDate": "Feb 2017",
+          "endDate": "May 2020",
+          "highlights": [
+            "Owned P&L, AOP, and forecasting while overseeing sales operations, O2C optimisation, contract administration, pricing, and supply chain coordination for a $700M business unit.",
+            "Delivered $6M key account revenue growth (from $4M to $10M), 10% YoY revenue growth, and 20% profitability improvement through cost-saving and Value Engineering.",
+            "Achieved 96% OTD performance (41% order fulfilment improvement), reduced pricing discrepancies by 30%, and streamlined CRM automation for 40% faster customer response times and a 90% reduction in open cases.",
+            "Developed and led the Contract Implementation Review process, upheld the Quote Log, led pricing projects, and guided the Customer Service team."
+          ]
+        },
+        {
+          "company": "JK Fenner (India) Ltd.",
+          "location": "Hyderabad, India",
+          "role": "Asst. Manager – Supply Chain & Logistics",
+          "startDate": "Jul 2013",
+          "endDate": "Feb 2017",
+          "highlights": [
+            "Supervised a 7-member team overseeing end-to-end logistics, transportation, import/export compliance, warehousing, freight forwarding, inventory planning, and S&OP.",
+            "Implemented a new process lifting overall claims OTD from 37% to 80% within a year.",
+            "Drove warehousing and inventory cost-saving initiatives including regional depot sales, reducing overall logistics costs by 35%.",
+            "Reviewed carrier-performance metrics and monthly cost reports for the Executive Team, managed stock reconciliations with zero variance, and implemented age-based stacking."
+          ]
+        },
+        {
+          "company": "ITC Ltd., PSPD Division.",
+          "location": "Bhadrachalam, India",
+          "role": "Sr. Officer – Supply Chain & Logistics",
+          "startDate": "Nov 2009",
+          "endDate": "Jul 2013",
+          "highlights": [
+            "Led domestic supply chain and distribution operations covering order management, transportation planning, and contract negotiations.",
+            "Reduced logistics costs by 20% through optimised regional distribution models and cut inventory tracking discrepancies by 30%.",
+            "Enhanced supplier performance and developed contract negotiations saving ₹10 Lakhs annually in procurement costs."
+          ]
+        },
+        {
+          "company": "Amara Raja Batteries Ltd. & Hartex Rubber Pvt. Ltd.",
+          "location": "Hyderabad, India",
+          "role": "Executive – Imports & Exports (Sep 2008 – Nov 2009) | Marketing Coordinator (Jun 2004 – Sep 2008)",
+          "startDate": "Jun 2004",
+          "endDate": "Nov 2009",
+          "highlights": [
+            "Amara Raja Batteries Ltd., Hyderabad (IBD Division): Executive – Imports & Exports (Sep 2008 – Nov 2009).",
+            "Hartex Rubber Pvt. Ltd., Hyderabad: Marketing Coordinator (Jun 2004 – Sep 2008)."
+          ]
+        }
+      ]
+    },
+    "business": {
+      "trackId": "business",
+      "trackLabel": "Business & Order Management Profile",
+      "sourceProfile": "OM Profile",
+      "shareUrl": "https://dsudheerk1-coder.github.io/?profile=business",
+      "displayName": "Sudheer Kumar DP",
+      "publicEmail": "dsudheerk1@gmail.com",
+      "headline": "Order Management & Manufacturing Operations Leader",
+      "subheadline": "Order-to-Cash (O2C) | SAP SD/MM | Production & Inventory Allocation | Supply Chain & Logistics",
+      "summary": "Order management and supply chain leader with 20+ years of experience across product-based manufacturing, industrial products and global customer operations. Experienced in leading a 15-member team and managing end-to-end O2C, commercial controls, SAP SD/MM, production and inventory coordination, backlog reviews and logistics. Combines hands-on manufacturing operations experience at Regal Rexnord, JK Fenner and ITC with SAP process and rollout expertise.",
+      "targetRoles": [
+        "Order Management & Sales Operations Manager / Lead",
+        "Business Operations Manager",
+        "Program Operations Manager",
+        "Manufacturing & Supply Chain Operations Leader",
+        "Executive Business Partner — Operations"
+      ],
+      "keyMetrics": [
+        {
+          "value": "20+ Yrs",
+          "label": "Operations Leadership",
+          "detail": "Manufacturing, industrial products & global O2C"
+        },
+        {
+          "value": "15",
+          "label": "Team Led",
+          "detail": "Order management & sales operations team"
+        },
+        {
+          "value": "95%+",
+          "label": "On-Time Delivery",
+          "detail": "Sustained delivery accuracy + $6M revenue growth"
+        },
+        {
+          "value": "40%",
+          "label": "Less Manual Work",
+          "detail": "Process & allocation automation improvements"
+        },
+        {
+          "value": "35%",
+          "label": "Logistics Cost Cut",
+          "detail": "Transportation & carrier service improvements"
+        },
+        {
+          "value": "30%",
+          "label": "Faster Order Cycle",
+          "detail": "EMEA & global fulfillment process optimization"
+        }
+      ],
+      "coreCompetencies": [
+        "End-to-End Order-to-Cash (O2C) & 15-Member Team Leadership",
+        "Pre- & Post-Order Commercial Controls & Delegated Discount Authority (15–20%)",
+        "Order Amendments, PO-to-Quote Verification & Audit Traceability",
+        "Weekly & Monthly Production Planning & Control (PPC) & Opening Backlog Reconciliation",
+        "Inventory Allocation, Stock Variance Resolution & Capacity Prioritization",
+        "Order-to-Invoice Accuracy & Finance / Billing Discrepancy Resolution",
+        "Carrier Performance Governance, Dispatch Planning & Logistics Optimization",
+        "SAP SD/MM Manufacturing Rollout, UAT, Escalation Governance & Operational Dashboards"
+      ],
+      "erpAndDigitalTools": [
+        "SAP SD (ECC / S/4HANA)",
+        "SAP MM",
+        "Variant Configuration",
+        "ATP / Component Availability",
+        "Pricing & Order Types",
+        "Third-Party Sales",
+        "Intercompany Billing",
+        "Master Data",
+        "IDoc / EDI coordination",
+        "TMS 2.0",
+        "ProShip",
+        "ServiceNow",
+        "SAP Solution Manager",
+        "Oracle ERP",
+        "Salesforce Case Management",
+        "MS Excel / Office"
+      ],
+      "experience": [
+        {
+          "company": "Wipro Limited",
+          "client": "Apple Inc.",
+          "location": "Hyderabad, India",
+          "role": "Senior SAP Consultant – Order Management & Supply Chain",
+          "startDate": "Oct 2023",
+          "endDate": "Present",
+          "highlights": [
+            "Coordinate SAP-enabled order management and supply chain operations across O2C, P2P and transportation processes, supporting accurate order execution and business continuity.",
+            "Oversee order processing exceptions, allocation and release-related issues; work with fulfillment and supply chain teams to resolve blockers and maintain SLA performance.",
+            "Partner with business stakeholders and technical teams to investigate SAP SD/MM issues involving sales orders, master data, pricing, availability and downstream fulfillment.",
+            "Support logistics and transportation integrations, including TMS 2.0 and carrier-related processes, helping resolve shipment and tracking exceptions across logistics partners.",
+            "Manage critical escalations and production incidents through ServiceNow / SolMan, coordinating root-cause analysis, testing and controlled implementation of fixes.",
+            "Contribute to process improvements, UAT, test documentation and reporting to improve order accuracy, issue visibility and operational responsiveness."
+          ]
+        },
+        {
+          "company": "Introlligent Solutions Pvt. Ltd.",
+          "client": "Apple Inc.",
+          "location": "Hyderabad, India",
+          "role": "Senior SAP Consultant – Order Management",
+          "startDate": "May 2022",
+          "endDate": "Oct 2023",
+          "highlights": [
+            "Supported end-to-end order lifecycle execution for global operations, coordinating order status, allocation, fulfillment exceptions and cross-functional issue resolution.",
+            "Worked with supply chain and fulfillment stakeholders across EMEA to address backlog, order discrepancies and delivery-related exceptions.",
+            "Prepared monthly and quarterly operational dashboards to provide leadership with visibility into fulfillment performance and recurring process issues.",
+            "Contributed to process changes and operational improvements that reduced order cycle time by 30%.",
+            "Supported SAP SD process analysis, testing and coordination across business and IT teams to maintain consistent order execution."
+          ]
+        },
+        {
+          "company": "Regal Rexnord India Pvt. Ltd.",
+          "sector": "Product-based industrial / manufacturing business",
+          "location": "Hyderabad, India",
+          "role": "Manager – Order Management & Sales Operations",
+          "startDate": "Feb 2017",
+          "endDate": "May 2022",
+          "highlights": [
+            "Led a 15-member order management and sales operations team, overseeing the order-to-cash cycle and coordinating customer requirements with Commercial, Manufacturing, Supply Chain, Logistics and Finance.",
+            "Supported manufacturing SAP rollout and subsequent enhancements, contributing to process design, business validation, UAT, user coordination and post-go-live issue resolution.",
+            "Worked on SAP SD processes including Variant Configuration, component availability checks, item category and schedule-line determination, pricing, third-party sales / transfers and intercompany billing scenarios.",
+            "Exercised delegated commercial authority to approve customer discounts of 15–20% against quoted value, in line with the applicable approval hierarchy; referred requests beyond delegated limits for higher-level approval.",
+            "Controlled order amendments by checking revised customer requirements against the agreed quotation and approvals, updating order records and supporting communication for full traceability.",
+            "Managed pre- and post-order commercial controls, reviewing customer purchase orders against quotations, agreed pricing and commercial terms.",
+            "Participated in monthly and weekly Production Planning & Control (PPC) reviews, sharing customer priorities and reconciling opening backlog against current order inflow to identify capacity gaps and prioritise orders.",
+            "Worked with Finance and internal stakeholders to resolve pricing and billing discrepancies, supporting order-to-invoice accuracy and reducing invoice disputes by 25%.",
+            "Introduced process and allocation improvements that reduced manual intervention by 40% and improved order fulfillment accuracy and backlog management.",
+            "Maintained 95%+ on-time delivery performance and contributed to $6M revenue growth through improved order processing, customer alignment and fulfillment execution.",
+            "Coached and developed a 15-member team, maintained operating procedures and reinforced clear escalation and approval practices."
+          ]
+        },
+        {
+          "company": "JK Fenner (India) Ltd.",
+          "sector": "Manufacturing and distribution",
+          "location": "Hyderabad, India",
+          "role": "Assistant Manager – Order Management & Logistics",
+          "startDate": "Jul 2013",
+          "endDate": "Jan 2017",
+          "highlights": [
+            "Managed order processing and fulfillment across manufacturing and distribution operations, coordinating customer demand with inventory, dispatch and logistics teams.",
+            "Worked with planning and warehouse stakeholders to improve inventory accuracy, resolve stock variances and support timely order execution.",
+            "Monitored carrier performance and logistics service levels; implemented transportation improvements that reduced logistics costs by 35%.",
+            "Coordinated dispatch planning and shipment follow-up to improve delivery reliability and customer communication."
+          ]
+        },
+        {
+          "company": "ITC Limited – PSPD Division",
+          "sector": "Paper and paperboards manufacturing",
+          "location": "Bhadrachalam, India",
+          "role": "Senior Officer – Supply Chain & Logistics",
+          "startDate": "Nov 2009",
+          "endDate": "Jul 2013",
+          "highlights": [
+            "Handled order management and distribution coordination across North, South and East India, aligning customer requirements with supply and dispatch plans.",
+            "Supported inventory control and distribution planning initiatives that delivered INR 15 lakh in cost savings.",
+            "Worked with internal operations and logistics partners to support customer fulfillment and on-time delivery."
+          ]
+        },
+        {
+          "company": "Amara Raja Batteries Ltd. & Hartex Rubber Pvt. Ltd.",
+          "sector": "Automotive batteries and industrial rubber",
+          "location": "Hyderabad, India",
+          "role": "Executive – Imports & Exports | Marketing Coordinator",
+          "startDate": "Jun 2004",
+          "endDate": "Nov 2009",
+          "highlights": [
+            "Built foundational experience in import-export coordination, commercial documentation, customer coordination and industrial product operations."
+          ]
+        }
+      ]
+    }
+  }
+}

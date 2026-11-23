@@ -1,0 +1,20 @@
+# Protect private candidate data and local tooling from accidental public commits
+*private*
+*secret*
+*confidential*
+*.env
+.env.*
+*.pdf
+*.docx
+*.doc
+*.xlsx
+resumes/
+private_data/
+secrets/
+
+# OS & editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
